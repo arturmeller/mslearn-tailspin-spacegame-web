@@ -55,6 +55,11 @@ steps:
       succeeded(),
       eq(variables['Build.Reason'], 'PullRequest'),
       eq(variables['System.PullRequest.TargetBranch'], 'master')
+    ),
+    or
+    (   
+      succeeded(), 
+      eq(variables['Build.SourceBranch'], 'refs/heads/master')
     )
 
 - task: DotNetCoreCLI@2
