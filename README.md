@@ -1,4 +1,5 @@
 [![Build Status](https://ameller.visualstudio.com/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://ameller.visualstudio.com/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=9&branchName=master)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=arturmeller_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=arturmeller_mslearn-tailspin-spacegame-web)
 
 # Contributing
 
