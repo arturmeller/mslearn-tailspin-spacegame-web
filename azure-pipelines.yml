@@ -55,7 +55,7 @@ steps:
       succeeded(),
       eq(variables['Build.Reason'], 'PullRequest'),
       eq(variables['System.PullRequest.TargetBranch'], 'master')
-    )
+    ) |
     or
     (   
       succeeded(), 
