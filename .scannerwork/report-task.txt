@@ -1,0 +1,7 @@
+organization=space-game-web-arturmeller
+projectKey=arturmeller_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.3934
+dashboardUrl=https://sonarcloud.io/dashboard?id=arturmeller_mslearn-tailspin-spacegame-web
+ceTaskId=AW-Kfiep-_fVP6f2an4w
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW-Kfiep-_fVP6f2an4w
